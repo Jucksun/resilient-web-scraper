@@ -12,8 +12,8 @@ WHAT THIS DOES:
   - Filters which links to follow based on a list of keyword "tags" you
     give it (matched against the link text and URL).
 
-HOW TO USE (the only part you probably need to touch is the very bottom,
-under `if __name__ == "__main__":`)
+HOW TO USE (the only part you probably need to edit is the very bottom,
+under `if __name__ == "__main__":`, unless you want to include alternative features.)
 """
 
 import requests
